@@ -1,6 +1,10 @@
 ## Hi there 👋
+- 🔭 I’m currently working on AI powered Recipy website
 - 🌱 I’m currently learning React JS
-- 👯 I’m looking to collaborate on Projects
+- 👯 I’m looking to collaborate on GitHub
+- 🤔 I’m looking for help with 
+- 💬 Ask me about WebDevelopment/ Tech related stuff
+- 📫 How to reach me: Gmail(harshitprakash2@gmail.com)
 
 <!--
 **harshitprakash/harshitprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
