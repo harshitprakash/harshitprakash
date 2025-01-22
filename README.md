@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit prakash</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on U&Recipy<br><br>🌱 I’m currently learning Reactjs<br><br>👯 I’m looking to collaborate on Github<br><br>👨‍💻 All of my projects are available at Github<br><br>💬 Ask me about WebDevelopment<br><br>📫 How to reach me harshitprakash2@gmail.com
