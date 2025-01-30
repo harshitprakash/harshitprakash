@@ -5,10 +5,6 @@
 🔭 I’m currently working on U&Recipy<br><br>🌱 I’m currently learning Reactjs<br><br>👯 I’m looking to collaborate on Github<br><br>👨‍💻 All of my projects are available at Github<br><br>💬 Ask me about WebDevelopment<br><br>📫 How to reach me harshitprakash2@gmail.com
 
 
-# 💫 About Me:
-🔭 I’m currently working on U&Recipy<br><br>🌱 I’m currently learning Reactjs<br><br>👯 I’m looking to collaborate on Github<br><br>👨‍💻 All of my projects are available at Github<br><br>💬 Ask me about WebDevelopment<br><br>📫 How to reach me harshitprakash2@gmail.com
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/its_harshitprakash2__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshit-prakash-a0a65a243/) 
 
